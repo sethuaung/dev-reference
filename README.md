@@ -77,4 +77,4 @@ categories:
 
 ## 📃 License
 
-The project is licensed under the [GNU](https://github.com/sethuaung/-reference/new/main/LICENSE) License and is maintained by [SETHUAUNG](https://github.com/sethuaung).
+The project is licensed under the [GPL](https://github.com/sethuaung/-reference/blob/main/LICENSE) License and is maintained by [SETHUAUNG](https://github.com/sethuaung).
