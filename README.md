@@ -19,6 +19,8 @@ Reference provides cheat sheets for the following:
 - [Go](): This cheat sheet provided basic syntax and methods to help you using [Go](https://go.dev/).
 - [Markdown](): This is a quick reference cheat sheet to the Markdown syntax.
 - [Bash](): This is a quick reference cheat sheet to getting started with linux bash shell scripting.
+- [Kotlin]()
+- [Dart]()
 
 </details>
 
@@ -41,6 +43,7 @@ Reference provides cheat sheets for the following:
 <summary>Python</summary>
 
 - [Numpy](): [NumPy](https://numpy.org/) is the fundamental package for scientific computing with Python. This cheat sheet is a quick reference for NumPy beginners.
+- [PyTorch]()
 
 </details>
 
@@ -48,6 +51,7 @@ Reference provides cheat sheets for the following:
 <summary>Database</summary>
 - [PostgreSQL](): The [PostgreSQL](https://www.postgresql.org/docs/current/) cheat sheet provides you with the common PostgreSQL commands and statements.
 - [MySQL](): The SQL cheat sheet provides you with the most commonly used SQL statements for your reference.
+- [MongoSQL](): The SQL cheat sheet provides you with the most commonly used SQL statements for your reference.
 
 </details>
 
@@ -58,7 +62,7 @@ Reference provides cheat sheets for the following:
 
 </details>
 
-To create or edit a cheat sheet, you'll need to create or edit a markdown file in `source/_posts/{filename}.md`. The file should include a front matter section with the following format:
+To create or edit a cheat sheet, you'll need to create or edit a markdown file in `{filename}.md`. The file should include a front matter section with the following format:
 
 
 ```markdown
