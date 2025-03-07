@@ -36,20 +36,21 @@ Reference provides cheat sheets for the following:
 <summary>Linux Command</summary>
 
 - [Initial Setup](Ubuntu-Server-Initial-Setup.md): This [Initial Setup.md](https://github.com/curl/curl) cheat sheet contains useful commands and required packages/dependencies for new ubuntu server setup.
+- [SSH](SSH.md): This quick reference cheat sheet provides various for using SSH.
+- [Grep](Grep.md): This cheat sheet is intended to be a quick reminder for the main concepts involved in using the command line program grep and assumes you already understand its usage.
+- [Find](find.md): This is a quick reference list of cheat sheet for linux find command, contains common options and examples.
 - [Curl](Curl.md): This [Curl](https://github.com/curl/curl) cheat sheet contains commands and examples of some common Curl tricks.
 - [Chmod](Chmod.md): This quick reference cheat sheet provides a brief overview of file permissions, and the operation of the chmod command
-- [SSH](SSH.md): This quick reference cheat sheet provides various for using SSH.
-- [Netstat](Netstat.md): This quick reference cheat sheet provides various for using netstat command.
 - [Awk](Awk.md): This is a one page quick reference cheat sheet to the [GNU awk](https://www.gnu.org/software/gawk/manual/gawk.html), which covers commonly used awk expressions and commands.
-- [Find](find.md): This is a quick reference list of cheat sheet for linux find command, contains common options and examples.
 - [Cron](Cron.md): [Cron](https://en.wikipedia.org/wiki/Cron) is most suitable for scheduling repetitive tasks. Scheduling one-time tasks can be accomplished using the associated at utility.
 - [Git](git.md): This cheat sheet summarizes commonly used Git command line instructions for quick reference.
-- [Grep](Grep.md): This cheat sheet is intended to be a quick reminder for the main concepts involved in using the command line program grep and assumes you already understand its usage.
+- [Netstat](Netstat.md): This quick reference cheat sheet provides various for using netstat command.
 - [Netcat](Netcat.md): This cheat sheet provides various for using Netcat on both Linux and Unix.
 </details>
 
 <details>
 <summary>Python</summary>
+
 - [Python](python.md): The [Python](https://www.python.org/) cheat sheet is a one-page reference sheet for the Python 3 programming language.
 - [Numpy](Numpy.md): [NumPy](https://numpy.org/) is the fundamental package for scientific computing with Python. This cheat sheet is a quick reference for NumPy beginners.
 - [PyTorch](PyTorch.md) This is a quick reference list of cheat sheets for PyTorch. See also [PyTorch website](https://pytorch.org/)
@@ -77,8 +78,7 @@ Reference provides cheat sheets for the following:
 <details>
 <summary>Solution Architects Roadmap </summary>
 
-- [Roadmap](Solution Architects Roadmap.md): This is a Skills map and Roles & Responsibilities of Solution Architects
-
+- [Roadmap](Solution Architects Roadmap.md): This is a Skills map and Roles & Responsibilities of Solution Architects.
 </details>
 
 To create or edit a cheat sheet, you'll need to create or edit a markdown file in `{filename}.md`. The file should include a front matter section with the following format:
