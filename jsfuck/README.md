@@ -6,7 +6,7 @@ It does not depend on a browser, so you can even run it on Node.js.
 
 Demo: [jsfuck.com](http://www.jsfuck.com)
 
-By [@aemkei](https://twitter.com/aemkei) and [friends](https://github.com/aemkei/jsfuck/graphs/contributors).
+[Contributors](https://github.com/aemkei/jsfuck/graphs/contributors).
 
 ### Example
 
