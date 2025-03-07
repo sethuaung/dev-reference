@@ -22,7 +22,7 @@ Reference provides cheat sheets for the following:
 - [Docker](Docker.md): This is a quick reference cheat sheet for [Docker](https://docs.docker.com/get-started/). And you can find the most common Docker commands here.
 - [YAML](YAML.md): This is a quick reference cheat sheet for understanding and writing YAML format configuration files.
 - [JavaScript](JavaScript.md): A JavaScript cheat sheet with the most important concepts, functions, methods, and more. A complete quick reference for beginners.
-- [JSFuck []()!+](jsfuck): This is an esoteric and educational programming style based on the atomic parts of JavaScript. It uses only six different characters to write and execute code.
+- [JSFuck []()!+ ](/jsfuck/Readme.md): This is an esoteric and educational programming style based on the atomic parts of JavaScript. It uses only six different characters to write and execute code.
 - [Python](python.md): The [Python](https://www.python.org/) cheat sheet is a one-page reference sheet for the Python 3 programming language.
 - [Go](Go.md): This cheat sheet provided basic syntax and methods to help you using [Go](https://go.dev/).
 - [Markdown](Markdown.md): This is a quick reference cheat sheet to the Markdown syntax.
@@ -35,7 +35,7 @@ Reference provides cheat sheets for the following:
 <details>
 <summary>Linux Command</summary>
 
-- [Initial Setup](Ubuntu-Server-Initial-Setup.md): This [Initial Setup.md](https://github.com/curl/curl) cheat sheet contains useful commands and required packages/dependencies for new ubuntu server setup.
+- [Initial Setup](Ubuntu-Server-Initial-Setup.md): This contains useful commands and required packages/dependencies for new ubuntu server setup.
 - [SSH](SSH.md): This quick reference cheat sheet provides various for using SSH.
 - [Grep](Grep.md): This cheat sheet is intended to be a quick reminder for the main concepts involved in using the command line program grep and assumes you already understand its usage.
 - [Find](find.md): This is a quick reference list of cheat sheet for linux find command, contains common options and examples.
@@ -74,6 +74,7 @@ Reference provides cheat sheets for the following:
 - [Github Actions](Github Actions.md): A quick reference to Github Actions for the automation of software workflows, allowing developers to build, test, and deploy code right from their GitHub repositories.
 - [GitLab](GitLab.md): A visual cheat-sheet for the 58 keyboard shortcuts found in GitLab
 </details>
+
 
 <details>
 <summary>Solution Architects Roadmap </summary>
