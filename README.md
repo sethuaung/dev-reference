@@ -1,4 +1,4 @@
-# 📖 Reference - Cheat Sheets for Developers
+# 📖 Reference - Cheat Sheets for SysAdmin & Developers
 
 [![love](https://badgen.net/badge/make%20with/love/pink)](#)
 
@@ -27,6 +27,7 @@ Reference provides cheat sheets for the following:
 <details>
 <summary>Linux Command</summary>
 
+- [Initial Setup](): This [Initial Setup.md](https://github.com/curl/curl) cheat sheet contains useful commands and required packages/dependencies for new ubuntu server setup.
 - [Curl](): This [Curl](https://github.com/curl/curl) cheat sheet contains commands and examples of some common Curl tricks.
 - [Chmod](): This quick reference cheat sheet provides a brief overview of file permissions, and the operation of the chmod command
 - [SSH](): This quick reference cheat sheet provides various for using SSH.
@@ -81,4 +82,4 @@ categories:
 
 ## 📃 License
 
-The project is licensed under the [GPL](https://github.com/sethuaung/-reference/blob/main/LICENSE) License and is maintained by [SETHUAUNG](https://github.com/sethuaung).
+The project is licensed under the [GPL](https://github.com/sethuaung/dev-reference/blob/main/LICENSE) License and is maintained by [SETHUAUNG](https://github.com/sethuaung).
