@@ -8,6 +8,7 @@ Reference provides cheat sheets for the following:
 
 <details>
 <summary>Command-line interpreter or Unix Shell, Container </summary>
+
 - [Bash](Bash.md): This is a quick reference cheat sheet to getting started with linux bash shell scripting.
 - [Powershell](Powershell.md): This is a cross-platform automation and configuration tool/framework that works well with existing tools and is optimized for dealing with structured data (e.g., JSON, CSV, XML), REST APIs, and object models. It includes a command-line shell, an associated scripting language, and a framework for processing cmdlets.
 - [Docker](Docker.md): This is a quick reference cheat sheet to see the options, environment variables, and configuration file for create and run containers, manage images, and customize the Docker CLI.
@@ -57,6 +58,7 @@ Reference provides cheat sheets for the following:
 
 <details>
 <summary>Database</summary>
+
 - [PostgreSQL](PostgreSQL.md): The [PostgreSQL](https://www.postgresql.org/docs/current/) cheat sheet provides you with the common PostgreSQL commands and statements.
 - [MySQL](MySQL.md): The SQL cheat sheet provides you with the most commonly used SQL statements for your reference.
 - [MongoSQL](MongoDB.md): The SQL cheat sheet provides you with the most commonly used SQL statements for your reference.
@@ -65,15 +67,16 @@ Reference provides cheat sheets for the following:
 
 <details>
 <summary>Git</summary>
+
 - [Github](Github.md): A visual cheat-sheet for the 80 keyboard shortcuts found on Github.com
 - [Github CLI](Github CLI.md): A quick reference to Github CLI, an open-source command line tool that enables GitHub on your terminal.
 - [Github Actions](Github Actions.md): A quick reference to Github Actions for the automation of software workflows, allowing developers to build, test, and deploy code right from their GitHub repositories.
 - [GitLab](GitLab.md): A visual cheat-sheet for the 58 keyboard shortcuts found in GitLab
-
 </details>
 
 <details>
 <summary>Solution Architects Roadmap </summary>
+
 - [Roadmap](Solution Architects Roadmap.md): This is a Skills map and Roles & Responsibilities of Solution Architects
 
 </details>
