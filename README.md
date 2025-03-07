@@ -27,8 +27,8 @@ Reference provides cheat sheets for the following:
 - [Go](Go.md): This cheat sheet provided basic syntax and methods to help you using [Go](https://go.dev/).
 - [Markdown](Markdown.md): This is a quick reference cheat sheet to the Markdown syntax.
 - [Bash](Bash.md): This is a quick reference cheat sheet to getting started with linux bash shell scripting.
-- [Kotlin](Kotlin.md)
-- [Dart](Dart.md)
+- [Kotlin](Kotlin.md): This is a quick reference cheatsheet for Kotlin that includes usage, examples, and more.
+- [Dart](Dart.md): This is a Dart cheat sheet with the most important concepts, functions, methods, and more. A complete quick reference for beginners.
 
 </details>
 
@@ -79,7 +79,7 @@ Reference provides cheat sheets for the following:
 <details>
 <summary>Solution Architects Roadmap </summary>
 
-- [Roadmap](Solution Architects Roadmap.md): This is a Skills map and Roles & Responsibilities of Solution Architects.
+- [Roadmap](Solution-Architects-Roadmap.md): This is a Skills map and Roles & Responsibilities of Solution Architects.
 </details>
 
 To create or edit a cheat sheet, you'll need to create or edit a markdown file in `{filename}.md`. The file should include a front matter section with the following format:
