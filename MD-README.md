@@ -12,7 +12,7 @@ It uses the [mkdocs](https://www.mkdocs.org/) static site generator, which has s
    Maintaining your own fork also allows you to make changes to the template (for example using a different theme).
 2. If you don't do it already, put your notes in a git repo and push it to a git hosting service like Gitlab, Github, etc
 3. Create a new vercel project and import (your fork of) this repo.
-4. In the vercel project go to `Settings` -> `Environment Variables` and add a `DOCS_REPO` variable, that points to the git repo containing your notes. Example value: `https://github.com/six-two/notes-demo-page`
+4. In the vercel project go to `Settings` -> `Environment Variables` and add a `DOCS_REPO` variable, that points to the git repo containing your notes. Example value: `https://github.com/sethuaung/dev-reference`
    If your repo is private, you will need to specify create an API token and put it in the git url. Example for private repo: `https://oauth2:YOUR-API-TOKEN-HERE@gitlab.com/six-two/private-notes-demo`
 5. Optional: Name your website by also creating a `DOCS_NAME` variable.
 6. Redeploy your vercel project (`Deployments` -> Choose the top one -> Three dot menu next to `Visit` -> `Redeploy` -> `Redeploy`)

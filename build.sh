@@ -21,7 +21,7 @@ sed "s/<NAME>/$NAME/" mkdocs-template.yml > mkdocs.yml
 
 # Determine which repo the git documents should be obtained from
 # Preference order: Command line argument, environment variable, my hardcoded demo page URL
-REPO=${DOCS_REPO:-https://github.com/six-two/notes-demo-page}
+REPO=${DOCS_REPO:-https://github.com/sethuaung/dev-reference}
 REPO=${1:-$REPO}
 
 if [[ -d "${REPO}" ]]; then
