@@ -1,6 +1,6 @@
 site:
   # set the domain with schema but without trailing slash:
-  domain: 'https://gitsite.org'
+  # domain: 'https://gitsite.org'
   title: GitSite
   description: GitSite is a static web site generator for Git.
   keywords: gitsite, git, static web site, html
@@ -8,7 +8,7 @@ site:
   language: en-US
   # set the /<rootPath> pathname under which your site is served
   # for GitHub pages deployment without a custom domain, it is often '/<projectName>'
-  # root-path: /gitsite
+  root-path: /gitsite
   # set cdn path:
   cdn-path: https://cdn.jsdelivr.net/npm
   navigation:
