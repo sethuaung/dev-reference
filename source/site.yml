@@ -1,0 +1,58 @@
+site:
+  # set the domain with schema but without trailing slash:
+  domain: 'https://gitsite.org'
+  title: GitSite
+  description: GitSite is a static web site generator for Git.
+  keywords: gitsite, git, static web site, html
+  theme: default
+  language: en-US
+  # set the /<rootPath> pathname under which your site is served
+  # for GitHub pages deployment without a custom domain, it is often '/<projectName>'
+  # root-path: /gitsite
+  # set cdn path:
+  cdn-path: https://cdn.jsdelivr.net/npm
+  navigation:
+    - title: User Guide
+      uri: /books/gitsite-guide/index.html
+    - title: Blogs
+      uri: /blogs/tech/index.html
+    - title: License
+      uri: /pages/license/index.html
+    - title: Discuss
+      uri: https://github.com/michaelliao/gitsite/discussions
+      external: true
+  git:
+    base-url: https://github.com/michaelliao/gitsite/blob/main/source
+  contact:
+    name: Michael Liao
+    github: https://github.com/michaelliao/gitsite
+    twitter: https://twitter.com/liaoxuefeng
+  books:
+    index-marker: true
+  search:
+    # none = no search
+    # browser = flex search in browser
+    # google = google site search
+    type: browser
+  # control styles:
+  styles:
+    # show 'Edit in Git':
+    display-git-link: true
+    # any custom styles used in theme:
+    # code-font: Monaco
+  integration:
+    comment:
+      provider: disqus
+      name: gitsite
+    analytics:
+      provider: google
+      gtag: G-5Z40K7NBL5
+
+build:
+  # copy special files under root dir (ignore if not found):
+  copy:
+    - favicon.ico
+    - robots.txt
+    - ads.txt
+
+# you can add any items:
