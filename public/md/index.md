@@ -1,4 +1,4 @@
-# 📖 Cheat Sheets for SysAdmin & Developers
+# Cheat Sheets for SysAdmin & Developers
 
 
 ## 📚 Cheat Sheets List
@@ -8,9 +8,9 @@ Reference provides cheat sheets for the following:
 <details>
 <summary>Command-line interpreter or Unix Shell, Container </summary>
 
-- [Bash](Bash.md): This is a quick reference cheat sheet to getting started with linux bash shell scripting.
-- [Powershell](Powershell.md): This is a cross-platform automation and configuration tool/framework that works well with existing tools and is optimized for dealing with structured data (e.g., JSON, CSV, XML), REST APIs, and object models. It includes a command-line shell, an associated scripting language, and a framework for processing cmdlets.
-- [Docker](Docker.md): This is a quick reference cheat sheet to see the options, environment variables, and configuration file for create and run containers, manage images, and customize the Docker CLI.
+- [Bash](/blogs/Bash.md): This is a quick reference cheat sheet to getting started with linux bash shell scripting.
+- [Powershell](/blogs/Powershell.md): This is a cross-platform automation and configuration tool/framework that works well with existing tools and is optimized for dealing with structured data (e.g., JSON, CSV, XML), REST APIs, and object models. It includes a command-line shell, an associated scripting language, and a framework for processing cmdlets.
+- [Docker](/blogs/Docker.md): This is a quick reference cheat sheet to see the options, environment variables, and configuration file for create and run containers, manage images, and customize the Docker CLI.
 
 </details>
 <details>
@@ -83,20 +83,6 @@ Reference provides cheat sheets for the following:
 
 To create or edit a cheat sheet, you'll need to create or edit a markdown file in `{filename}.md`. The file should include a front matter section with the following format:
 
-
-```
-markdown
----
-title: CheatSheets
-date: 2023-11-25 18:28:43
-icon: icon-style
-background: bg-emerald-600
-tags:
-categories:
-- Other
-  intro: This is a reference of styles that you can use on quickref cheat sheets!
----
-```
 
 
 ## 📃 License
