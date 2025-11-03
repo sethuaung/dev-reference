@@ -1,7 +1,7 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/mdxpress-blog-dev-deploy.git"
+    "url": "git+https://github.com/sethuaung/dev-reference.git"
   },
   "license": "MIT",
   "private": true,
@@ -14,12 +14,12 @@
     "start": "node server.js"
   },
   "keywords": ["blog", "markdown", "static"],
-  "author": "Your Name",
+  "author": "James",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/yourusername/mdxpress-blog-dev-deploy/issues"
+    "url": "https://github.com/sethuaung/dev-reference/issues"
   },
-  "homepage": "https://github.com/yourusername/mdxpress-blog-dev-deploy#readme",
+  "homepage": "https://github.com/sethuaung/dev-reference#readme",
   "dependencies": {
     "marked": "^4.0.0",
     "@vercel/node": "^2.15.10"
