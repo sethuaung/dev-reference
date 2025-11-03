@@ -1,4 +1,4 @@
-# Cheat Sheets for SysAdmin & Developers
+# For SysAdmin & Developers
 
 
 ## 📚 Cheat Sheets List
@@ -8,7 +8,7 @@ Reference provides cheat sheets for the following:
 <details>
 <summary>Command-line interpreter or Unix Shell, Container </summary>
 
-- [Bash](/api/blogs/Bash.md): This is a quick reference cheat sheet to getting started with linux bash shell scripting.
+- [Bash](https://ref-felixent.vercel.app/api/blogs/Bash.md): This is a quick reference cheat sheet to getting started with linux bash shell scripting.
 - [Powershell](/blogs/Powershell.md): This is a cross-platform automation and configuration tool/framework that works well with existing tools and is optimized for dealing with structured data (e.g., JSON, CSV, XML), REST APIs, and object models. It includes a command-line shell, an associated scripting language, and a framework for processing cmdlets.
 - [Docker](/blogs/Docker.md): This is a quick reference cheat sheet to see the options, environment variables, and configuration file for create and run containers, manage images, and customize the Docker CLI.
 

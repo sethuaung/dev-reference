@@ -1,8 +1,8 @@
 ## Title : Bash
 
 - Categories: Linux Command
-- Tags: Permission
-- intro: This quick reference cheat sheet provides a brief overview of file permissions, and the operation of the chmod command
+- Tags: bash shell
+- Intro: This is a quick reference cheat sheet to getting started with linux bash shell scripting.
 
 ---
 
