@@ -1,23 +1,3 @@
----
-title: Bash
-date: 2020-11-25 18:28:43
-background: bg-[#3e4548]
-tags:
-    - shell
-    - sh
-    - echo
-    - script
-    - linux
-categories:
-    - Programming
-    - Operating System
-intro: This is a quick reference cheat sheet to getting started with linux bash shell scripting.
-plugins:
-    - copyCode
----
-
-Getting Started
----------------
 
 ### hello.sh
 
@@ -235,7 +215,7 @@ echo $DIRPATH   # => "/path/to/"
 
 
 
-### Transform 
+### Transform
 
 ```bash
 STR="HELLO WORLD!"
@@ -254,7 +234,7 @@ echo "${ARR[@]^}" # => Hello World
 
 
 
-Bash Arrays 
+Bash Arrays
 ------
 
 ### Defining arrays
@@ -609,7 +589,7 @@ done
 ```
 
 
-### Forever 
+### Forever
 
 ```bash
 while true; do
@@ -722,13 +702,13 @@ shopt -s nullglob
 shopt -s failglob  
 
 # Case insensitive globs
-shopt -s nocaseglob 
+shopt -s nocaseglob
 
-# Wildcards match dotfiles 
+# Wildcards match dotfiles
 # ("*.sh" => ".foo.sh")
 shopt -s dotglob    
 
-# Allow ** for recursive matches 
+# Allow ** for recursive matches
 # ('lib/**/*.rb' => 'lib/a/b/c.rb')
 shopt -s globstar   
 ```
@@ -780,7 +760,7 @@ Bash History {.cols-2}
 `!!` can be replaced with any valid expansion i.e. `!cat`, `!-2`, `!42`, etc.
 
 
-Miscellaneous 
+Miscellaneous
 -------------
 
 ### Numeric calculations
@@ -933,7 +913,7 @@ fi
 
 ### Backslash escapes {.row-span-2}
 
-- &nbsp; 
+- &nbsp;
 - \!
 - \"
 - \#
