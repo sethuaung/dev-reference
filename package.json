@@ -1,0 +1,9 @@
+{
+  "name": "linux-notes-hosting",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "./build.sh",
+    "serve": "./build.sh && python -m http.server --directory public"
+  }
+}
