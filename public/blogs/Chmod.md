@@ -1,15 +1,9 @@
----
-title: Chmod
-date: 2021-07-01 10:51:44
-background: bg-emerald-600
-tags:
-    - permission
-categories:
-    - Linux Command
-intro: |
-    This quick reference cheat sheet provides a brief overview of file permissions, and the operation of the chmod command
-plugins:
-    - copyCode
+## Title : Chmod
+
+- Tags: Permission
+- Categories: Linux Command
+- intro: This quick reference cheat sheet provides a brief overview of file permissions, and the operation of the chmod command
+
 ---
 
 
@@ -19,7 +13,7 @@ Getting Started
 
 ### Syntax
 ```shell script
-$ chmod [options] <permissions> <file> 
+$ chmod [options] <permissions> <file>
 ```
 #### Example
 ```shell

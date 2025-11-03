@@ -1,3 +1,10 @@
+## Title : Bash
+
+- Categories: Linux Command
+- Tags: Permission
+- intro: This quick reference cheat sheet provides a brief overview of file permissions, and the operation of the chmod command
+
+---
 
 ### hello.sh
 
@@ -12,6 +19,8 @@ Execute the script
 $ bash hello.sh
 ```
 
+
+---
 
 ### Variables
 
@@ -28,6 +37,8 @@ NAME = "John"   # => Error (about space)
 ```
 
 
+
+---
 
 ### Comments
 
@@ -47,6 +58,8 @@ Multi-line comments use `:'` to open and `'` to close
 
 
 
+---
+
 ### Arguments {.row-span-2}
 
 | Expression  | Description                           |
@@ -65,6 +78,8 @@ Multi-line comments use `:'` to open and `'` to close
 See: [Special parameters](http://wiki.bash-hackers.org/syntax/shellvars#special_parameters_and_shell_variables)
 
 
+---
+
 ### Functions
 
 ```bash
@@ -77,6 +92,8 @@ echo "You are $(get_name)"
 
 See: [Functions](#bash-functions)
 
+---
+
 ### Conditionals {#conditionals-example}
 
 ```bash
@@ -88,6 +105,8 @@ fi
 ```
 
 See: [Conditionals](#bash-conditionals)
+
+---
 
 ### Brace expansion
 
@@ -103,6 +122,8 @@ echo {A,B}.js
 | `{1..5}`   | Same as `1 2 3 4 5` |
 
 See: [Brace expansion](http://wiki.bash-hackers.org/syntax/expansion/brace)
+
+---
 
 ### Shell execution
 
@@ -122,6 +143,7 @@ Bash Parameter expansions
 --------------------
 
 
+---
 
 ### Syntax {.row-span-2}
 
@@ -154,6 +176,8 @@ Bash Parameter expansions
 
 
 
+---
+
 ### Substitution
 
 ```bash
@@ -177,6 +201,8 @@ echo ${STR/foo/bar} # /path/to/bar.cpp
 ```
 
 
+---
+
 ### Slicing
 
 ```bash
@@ -196,6 +222,8 @@ See: [Parameter expansion](http://wiki.bash-hackers.org/syntax/pe)
 
 
 
+---
+
 ### basepath & dirpath
 ```bash
 SRC="/path/to/foo.cpp"
@@ -210,10 +238,7 @@ DIRPATH=${SRC%$BASEPATH}
 echo $DIRPATH   # => "/path/to/"
 ```
 
-
-
-
-
+---
 
 ### Transform
 
@@ -233,6 +258,7 @@ echo "${ARR[@]^}" # => Hello World
 
 
 
+---
 
 Bash Arrays
 ------
