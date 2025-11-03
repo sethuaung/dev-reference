@@ -3,6 +3,10 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="keywords" content="Felixent-Edu">
+  <meta name="description" content="Useful Cheat Sheets for SysAdmin & Developers">
+  <meta name="author" content="Mosquito">
+  <link href="/styles/favicon.ico" rel="icon">
   <title>{{title}}</title>
   <link rel="stylesheet" href="/styles/style.css" />
 </head>
@@ -11,18 +15,18 @@
       <button class="theme-toggle" onclick="toggleDarkMode()">🌓 Toggle Theme</button>
       <button class="navigate-btn" onclick="window.history.back()">Back</button>
     </div>
-  
+
     <div class="content">
       <p>{{content}}</p>
     </div>
-  
-    <footer>Powered by <strong>mdxpress</strong></footer>
-  
+
+    <footer>&copy; 2025 <strong>Felixent.</strong> All rights reserved.</footer>
+
     <script>
       if (localStorage.getItem('theme') === 'dark') {
         document.body.classList.add('dark-mode');
       }
-  
+
       function toggleDarkMode() {
         document.body.classList.toggle('dark-mode');
         const theme = document.body.classList.contains('dark-mode') ? 'dark' : 'light';
@@ -30,5 +34,5 @@
       }
     </script>
   </body>
-  
+
 </html>
